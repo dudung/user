@@ -1,7 +1,7 @@
 # user
 list of some users of github
 
-uid | join | github
+uid | join | user
 :-: | :-: | :-:
 10218099 | |
 10219012 | |
