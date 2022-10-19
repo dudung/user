@@ -1,6 +1,6 @@
 # 10218099
-`usr` https://github.com/nawafalfa \
-`osf` https://osf.io/ak6vu/
+usr https://github.com/nawafalfa
+osf https://osf.io/ak6vu/
 
 
 ## notes
