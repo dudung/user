@@ -1,6 +1,6 @@
 # 10219012
-`usr` https://github.com/rahmanfaiz \
-`osf` https://osf.io/z3qtd/
+usr https://github.com/rahmanfaiz
+osf https://osf.io/z3qtd/
 
 
 ## notes
