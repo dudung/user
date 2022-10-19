@@ -1,5 +1,6 @@
 # 10219020
-osf https://osf.io/7vwe3/
+`usr` https://github.com/JonathanAdriel \
+`osf` https://osf.io/7vwe3/
 
 
 ## notes
