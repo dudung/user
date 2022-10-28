@@ -8,5 +8,5 @@ uid | join | user
 [10219020](10219020) | 16-jun-2022 | [JonathanAdriel](https://github.com/JonathanAdriel)
 [11418027](11418027) | 25-feb-2022 | []()
 30219304 | |
-30220309 | |
+[30220309](30220309) | 24-jul-2022 | [tistomo](https://github.com/tistomo)
 [38720003](38720003) | 18-oct-2022 | [shpratama](https://github.com/shpratama)
