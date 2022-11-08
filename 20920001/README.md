@@ -1,0 +1,14 @@
+# 20920001
+usr https://github.com/sevinurafni
+osf https://osf.io/8ngfc/
+
+
+## notes
++ `08-aug-2022` Thesis: Abstract.
++ `08-jul-2022` Progress report.
++ `08-mar-2022` Support for DDP ITB-KU travel:
++ `26-mar-2021` Thesis Proposal: Draft.
++ `05-mar-2021` Report: Volvox image processing.
++ `07-feb-2021` Documents for DDP ITB-KU and student supports.
++ `11-sep-2020` Continue with WhatsApp and agree to be supervisor.
++ `09-sep-2020` First contact via [email](https://osf.io/c2r4u).

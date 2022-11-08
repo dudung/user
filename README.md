@@ -12,3 +12,4 @@ uid | join | user
 [20220304](20220304/README.md) | 19-feb-2022 | [septianulandini](https://github.com/septianulandini)
 [20921003](20921003/README.md) | 20-feb-2022 | [windawijayasari](https://github.com/windawijayasari)
 [30219304](30219304/README.md) | 18-sep-2021 | [nita0406](https://github.com/nita0406)
+[20920001](20920001/README.md) | 09-sep-2020 | [sevinurafni](https://github.com/sevinurafni)
