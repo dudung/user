@@ -1,0 +1,13 @@
+# 28720005
+usr https://github.com/azfairuza
+osf https://osf.io/47cbs/
+
+
+## notes
++ `30-aug-2022` Permission to leave for [research in Osaka](https://osf.io/b7nc8).
++ `15-aug-2022` Defense of Thesis II: [Presentation slide](https://osf.io/7zumd).
++ `13-aug-2022` Defense of Thesis II: [Draft of thesis](https://osf.io/ynq5v).
++ `04-jan-2022` Defense of Thesis I: [List of participants](https://osf.io/kjdxa).
++ `20-dec-2021` Thesis I in the form of extended abstract.
++ `06-aug-2021` A conference: [Abstract](https://osf.io/vka65).
++ `20-oct-2020` Advised to be supervisor.
