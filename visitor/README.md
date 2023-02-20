@@ -1,6 +1,10 @@
 # visitor
 
 
+## 2022-2
++ [`10219111`](10219111.md) Michael Alfarino Bella Phungputra
+
+
 ## 2022-1
 + [`30220302`](30220302.md) Muhammad Alief Irha
 + [`38721002`](38721002.md) Yuyun Irmawati
