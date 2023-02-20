@@ -3,6 +3,7 @@
 
 ## 2022-2
 + [`10219111`](10219111.md) Michael Alfarino Bella Phungputra
++ [`20220301`](20220301.md) Nurjamilah
 
 
 ## 2022-1
