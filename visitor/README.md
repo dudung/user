@@ -2,8 +2,7 @@
 
 
 ## 2022-2
-+ [`10220022`](10220022.md) Angeli Fransiska Njo :question:
-+ [`10220054`](10220054.md) Muhammad Reza Fahriyansyah :question:
++ [`10218043`](10218043.md) Muhammad Rizqi
 + [`10219111`](10219111.md) Michael Alfarino Bella Phungputra
 + [`20220301`](20220301.md) Nurjamilah
 
