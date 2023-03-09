@@ -9,7 +9,7 @@
 
 
 ## 2022-1
-+ [`10219020`](10219020.md) Jonathan Adriel
++ [`10219020`](10219020.md) Jonathan Adriel :speech_balloon: [1](https://github.com/JonathanAdriel/final-year-project/issues/1) &bull; [2](https://github.com/JonathanAdriel/final-year-project/issues/2)
 
 
 ## not-dated
