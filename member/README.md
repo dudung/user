@@ -10,11 +10,11 @@
 
 ## 2022-1
 + [`10218099`](10218099.md) Nawaf Alfarizki [&bull;](https://github.com/nawafalfa/final-year-project/issues)
-+ [`10219020`](10219020.md) Jonathan Adriel [&bull;](https://github.com/JonathanAdriel/final-year-project/issues)
 + [`10219012`](10219012.md) Faiz Aulia Rahman [&bull;](https://github.com/rahmanfaiz/final-year-project/issues)
++ [`10219020`](10219020.md) Jonathan Adriel [&bull;](https://github.com/JonathanAdriel/final-year-project/issues)
 + [`20921003`](20921003.md) Winda Wijayasari [&bull;](https://github.com/windawijayasari/Thesis-Discussion/issues)
-+ [`38720003`](38720003.md) Sra Harke Pratama [&bull;](https://github.com/shpratama/nanocaffeine/issues)
 + [`30220309`](30220309.md) Arfan Sindhu Tistomo [&bull;](https://github.com/tistomo/bubble/issues)
++ [`38720003`](38720003.md) Sra Harke Pratama [&bull;](https://github.com/shpratama/nanocaffeine/issues)
 
 
 ## 2021-2
