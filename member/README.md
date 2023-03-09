@@ -4,8 +4,8 @@
 ## 2022-2
 + [`10220047`](10220047.md) Arion Tigor Parluhutan Lubis
 + [`10220078`](10220078.md) Revanka Mulya
-+ [`10220022`](10220022.md) Angeli Fransiska Njo :envelope: [1](https://github.com/AngeliFransiskaNjo/Tugas-Akhir/issues/1)
-+ [`10220054`](10220054.md) Muhammad Reza Fahriyansyah :envelope: [1](https://github.com/rezafahri11/tugas-akhir/issues/1)
++ [`10220022`](10220022.md) Angeli Fransiska Njo :speech_balloon: [1](https://github.com/AngeliFransiskaNjo/Tugas-Akhir/issues/1)
++ [`10220054`](10220054.md) Muhammad Reza Fahriyansyah :speech_balloon: [1](https://github.com/rezafahri11/tugas-akhir/issues/1)
 
 
 ## not-dated
