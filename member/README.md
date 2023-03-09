@@ -32,4 +32,4 @@
 
 ## 2020-1
 + [`20920001`](20920001.md) Sevi Nurafni [&bull;](https://github.com/sevinurafni/thesis_discussion/issues) :leaves:
-+ [`28720005`](28720005.md) Achmad Zacky Fairuza [&bull;](https://github.com/azfairuza/stemcell/issues) :leaves:
++ [`28720005`](28720005.md) Achmad Zacky Fairuza [&bull;](https://github.com/azfairuza/stemcell/issues)
