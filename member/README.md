@@ -8,10 +8,13 @@
 + [`10220054`](10220054.md) Muhammad Reza Fahriyansyah :speech_balloon: [1](https://github.com/rezafahri11/tugas-akhir/issues/1)
 
 
+## 2022-1
++ [`10219020`](10219020.md) Jonathan Adriel
+
+
 ## not-dated
 + [`11418021`](11418021.md) Haydar Alfan Nur
 + [`11418027`](11418027.md) Siti Aklima Nur Fadilah
-+ [`10219020`](10219020.md) Jonathan Adriel
 + [`11418040`](11418040.md) Rizky Nanda Pria Pribadi
 + [`20220304`](20220304.md) Septian Ulan Dini
 + [`20920007`](20920007.md) Alya Mutiara Firdausyi
