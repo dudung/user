@@ -4,3 +4,12 @@
 [submodule "github/20220304/Thesis-Discussion"]
 	path = github/20220304/Thesis-Discussion
 	url = https://github.com/septianulandini/Thesis-Discussion
+[submodule "github/20920001/volvox_motion_visualization"]
+	path = github/20920001/volvox_motion_visualization
+	url = https://github.com/sevinurafni/volvox_motion_visualization
+[submodule "github/20920001/motion_classification_volvox"]
+	path = github/20920001/motion_classification_volvox
+	url = https://github.com/sevinurafni/motion_classification_volvox
+[submodule "github/20920001/thesis_discussion"]
+	path = github/20920001/thesis_discussion
+	url = https://github.com/sevinurafni/thesis_discussion
