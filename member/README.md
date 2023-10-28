@@ -2,7 +2,7 @@
 
 
 ## 2022-2
-+ [`10220047`](10220047.md) Arion Tigor Parluhutan Lubis
++ ~[`10220047`](10220047.md) Arion Tigor Parluhutan Lubis~
 + [`10220078`](10220078.md) Revanka Mulya
 + [`10220022`](10220022.md) Angeli Fransiska Njo [&bull;](https://github.com/AngeliFransiskaNjo/Tugas-Akhir/issues)
 + [`10220054`](10220054.md) Muhammad Reza Fahriyansyah [&bull;](https://github.com/rezafahri11/tugas-akhir/issues)
